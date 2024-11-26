@@ -138,25 +138,25 @@ h2 {
 
 
 /* Adaptación para Pantallas Pequeñas */
-@media only screen and (max-width: 480px) {
-    .login-box {
-        width: 90%; /* Ajuste en pantallas pequeñas */
-        padding: 20px;
-    }
-
-    .btn {
-        font-size: 16px;
-    }
-
-    .nav-menu {
-        flex-direction: column; /* Menú en columna para pantallas pequeñas */
-        padding: 2px 0; /* Ajuste de padding */
-    }
-
-    .nav-item {
-        margin: 10px 0; /* Espaciado entre ítems en pantallas pequeñas */
-    }
-}
+/*@media only screen and (max-width: 480px) {
+/*    .login-box {
+/*        width: 1; /* Ajuste en pantallas pequeñas */
+/*    }
+/*
+/*    .btn {
+/*        font-size: 16px;
+/*    }
+/*
+/*    .nav-menu {
+/*        flex-direction: column; /* Menú en columna para pantallas pequeñas */
+/*        padding: 2px; /* Ajuste de padding */
+/*    }
+/*
+/*    .nav-item {
+/*        margin: 1px; /* Espaciado entre ítems en pantallas pequeñas */
+/*        padding: 2px;
+/*    }
+/*}
 
 
 /* Responsive */
