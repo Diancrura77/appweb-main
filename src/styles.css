@@ -150,7 +150,7 @@ h2 {
 
     .nav-menu {
         flex-direction: column; /* Menú en columna para pantallas pequeñas */
-        padding: 10px 0; /* Ajuste de padding */
+        padding: 2px 0; /* Ajuste de padding */
     }
 
     .nav-item {
